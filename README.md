@@ -1,2 +1,2 @@
-# django-donor-rest-api
+# Django Donor Rest Api
 This is a Django REST donor management api
